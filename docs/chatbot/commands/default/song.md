@@ -34,7 +34,7 @@ When a song is currently playing:
 
 ```
 User: !song
-Chatbot: @User, current song: DrakeVEVO - Drake, 21 Savage - Rich Flex (Audio), requested by styler https://youtu.be/I4DjHHVHWAE
+Chatbot: @User, current song: DrakeVEVO - Drake, 21 Savage - Rich Flex (Audio), https://youtu.be/I4DjHHVHWAE
 ```
 
 ### Example 2: No Song Playing
